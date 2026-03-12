@@ -1,0 +1,23 @@
+# Android Emulator (AVD)
+*.avd/
+*.emulator
+*.lock
+/snapshot/
+/snapshots/
+/avd/
+
+# iOS Simulator
+/Library/Developer/CoreSimulator/
+/Devices/
+
+# Build and temporary files
+build/
+bin/
+gen/
+tmp/
+*.log
+.DS_Store
+
+# User specific configuration
+*.user
+*.xml
