@@ -1,4 +1,4 @@
-# simple-emulator-study
+# Simple-Emulator-Study
 A guide to emulator development
 
 # Table of Contents
